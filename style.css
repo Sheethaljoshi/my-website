@@ -14,7 +14,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    background-color: rgb(28, 22, 56);
+    background-color: rgb(2, 0, 8);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 @keyframes windowsFly {
@@ -148,7 +148,7 @@ a:hover {
     width: 75%;
     border-radius: 10%;
     height: auto;
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    box-shadow: rgb(187, 19, 19) 0px 20px 30px -10px;
     filter: blur(0.5px);
 }
 
@@ -167,8 +167,8 @@ a:hover {
     text-align: center;
     padding: 20px;
     opacity: 0.9;
-    background-color: rgba(100, 98, 98, 0.288);
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background-color: rgba(79, 54, 112, 0.288);
+    box-shadow: rgb(116, 66, 99) 0px 20px 30px -10px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -225,7 +225,7 @@ a:hover {
     padding: 20px;
     opacity: 0.9;
     background-color: rgba(100, 98, 98, 0.288);
-    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    box-shadow: rgb(192, 88, 131) 0px 20px 30px -10px;
 }
 
 .form input {
