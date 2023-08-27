@@ -14,7 +14,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    background-color: rgb(2, 0, 8);
+    background-color: rgb(4, 0, 14);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 @keyframes windowsFly {
@@ -389,4 +389,3 @@ a:hover {
     background-color: #29293a;
     box-shadow: rgb(255, 10, 194) 0px 20px 30px -10px;
 }
-
