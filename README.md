@@ -26,12 +26,12 @@ Galactic Gastronomicon is a whimsical restaurant that merges fantasy with food. 
 - **Customer Reviews**: Read about the enchanting experiences others have had at Galactic Gastronomicon.
 
 ## Getting Started
-1. Visit our website: [Galactic Gastronomicon](https://www.example.com)
+1. Visit our website: [Galactic Gastronomicon](https://sheethaljoshi.github.io/my-website/)
 2. Explore our menus, view customer reviews, and get a taste of the extraordinary.
 3. Contact us to make a reservation or inquire about hosting your next occasion with us.
 
 ## Contact
 - Phone: 111-111-111
 - Email: info@galacticgastronomicon.com
-- Instagram: [@GalacticGastronomicon](https://www.instagram.com/galacticgastronomicon/)
+- Instagram: [@GalacticGastronomicon](https://www.instagram.com/p/BgSlRglAKBn/?hl=en)
 
