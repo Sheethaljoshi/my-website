@@ -225,7 +225,7 @@ a:hover {
     padding: 20px;
     opacity: 0.9;
     background-color: rgba(100, 98, 98, 0.288);
-    box-shadow: rgb(192, 88, 131) 0px 20px 30px -10px;
+    box-shadow: rgb(255, 10, 194) 0px 20px 30px -10px;
 }
 
 .form input {
